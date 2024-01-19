@@ -1,0 +1,24 @@
+{
+	"name": "nodejs-postgresql-restapi",
+	"version": "1.0.0",
+	"description": "Creating a REST API using Express.js as a Node.js framework and PostgreSQL",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon src/index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"eslint": "^8.56.0",
+		"eslint-config-prettier": "^9.1.0",
+		"nodemon": "^3.0.3",
+		"prettier": "^3.2.4"
+	},
+	"dependencies": {
+		"dotenv": "^16.3.1",
+		"express": "^4.18.2",
+		"pg": "^8.11.3",
+		"pg-hstore": "^2.3.4"
+	}
+}
