@@ -1,6 +1,6 @@
 # NODEJS-POSTGRESQL-RESTAPI
 
-<img width="50%" src="https://i.postimg.cc/SKPS19bW/NODEJS-POSTGRESQL-REST-API.png" />
+<img width="50%" src="./images/nodejs_postgresql_restapi.png" />
 
 ## INTRODUCTION
 
